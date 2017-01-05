@@ -7,4 +7,6 @@ App was created with Angular CLI based on an Udemy course by Brad Traversy (Eduo
 
 ## Check it live here:
 
+[https://mrfragstealer.github.io/ngSpotify/](https://mrfragstealer.github.io/ngSpotify/)
+
 
